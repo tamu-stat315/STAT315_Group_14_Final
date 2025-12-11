@@ -1,5 +1,5 @@
 FROM python:3.11-slim
-LABEL maintainer="Varish Kongara, Avinask Kakarala"
+LABEL maintainer="Varish Kongara, Avinash Kakarala"
 LABEL version="1.0"
 LABEL description="Python Jupyter Notebook"
 
