@@ -1,5 +1,7 @@
 # Instructions to run the Notebook
 
+## Download or clone the project
+
 ## Move to the root directory and run:
 ```docker build -t stock-movements:1.0 .```
 
